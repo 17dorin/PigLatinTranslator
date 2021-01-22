@@ -1,0 +1,7 @@
+C:\Users\17dor\Desktop\GC Slns\PigLatin\PigLatinTranslator\bin\Debug\PigLatinTranslator.exe.config
+C:\Users\17dor\Desktop\GC Slns\PigLatin\PigLatinTranslator\bin\Debug\PigLatinTranslator.exe
+C:\Users\17dor\Desktop\GC Slns\PigLatin\PigLatinTranslator\bin\Debug\PigLatinTranslator.pdb
+C:\Users\17dor\Desktop\GC Slns\PigLatin\PigLatinTranslator\obj\Debug\PigLatinTranslator.csprojAssemblyReference.cache
+C:\Users\17dor\Desktop\GC Slns\PigLatin\PigLatinTranslator\obj\Debug\PigLatinTranslator.csproj.CoreCompileInputs.cache
+C:\Users\17dor\Desktop\GC Slns\PigLatin\PigLatinTranslator\obj\Debug\PigLatinTranslator.exe
+C:\Users\17dor\Desktop\GC Slns\PigLatin\PigLatinTranslator\obj\Debug\PigLatinTranslator.pdb
